@@ -123,35 +123,6 @@ section {
     font-weight: 500;
 }
 
-.latter form {
-    width: 100%;
-    max-width: 460px;
-    position: relative;
-}
-
-.latter form input:first-child {
-    display: inline-block;
-    width: 100%;
-    outline: none;
-    padding: 16px 140px 16px 15px;
-    border: 2px solid var(--main-color);
-    border-radius: 30px;
-}
-
-.latter form input:last-child {
-    position: absolute;
-    display: inline-block;
-    border: none;
-    outline: none;
-    background: var(--main-color);
-    color: var(--bg-color);
-    padding: 16px 40px;
-    border-radius: 30px;
-    top: 2px;
-    right: 1px;
-    cursor: pointer;
-}
-
 .home-img img {
     height: auto;
     width: 100%;
