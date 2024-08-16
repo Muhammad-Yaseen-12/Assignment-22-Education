@@ -544,4 +544,7 @@ section {
     .courses-content {
         grid-template-columns: 1fr;
     }
+    .contact-content li a {
+        font-size: 10px;
+    }
 }
